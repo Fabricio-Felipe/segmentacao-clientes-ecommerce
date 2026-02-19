@@ -1,5 +1,11 @@
 📑 Análise de Fidelidade e Segmentação RFM (Dataset Olist)
 
+<img width="1425" height="797" alt="dashboard de segmentacao estrategica e saude da base rfm" src="https://github.com/user-attachments/assets/9406dfd7-9ae0-475b-87f6-382cebe19b16" />
+
+<img width="1424" height="799" alt="dashboard rfm - 2017" src="https://github.com/user-attachments/assets/6f3e6bc7-217f-4977-9fbb-d8fc61fa4a26" />
+
+<img width="1427" height="800" alt="dashboard rfm - 2018" src="https://github.com/user-attachments/assets/7fddbbb2-3126-4748-99f7-6d420ced5aed" />
+
 Este projeto apresenta um pipeline de dados completo — da extração à visualização — utilizando o dataset público da Olist. O objetivo é aplicar a metodologia RFM (Recency, Frequency, Monetary) para segmentar clientes e gerar insights estratégicos sobre retenção e churn.
 
 
