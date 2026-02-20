@@ -28,9 +28,10 @@ Para garantir a precisão estatística, desenvolvi um motor de processamento em 
 
 
 Destaques Técnicos:
-  Cálculo Estatístico Equilibrado: Uso da função qcut do Pandas para dividir a base em quintis, garantindo que os scores (1 a 5) sejam distribuídos de forma homogênea,           evitando distorções.
 
-  Segurança e Portabilidade: Implementação de python-dotenv para gerenciar as credenciais do servidor SQL, mantendo o código seguro e fácil de configurar em diferentes           ambientes.
+  Cálculo Estatístico Equilibrado: Uso da função qcut do Pandas para dividir a base em quintis, garantindo que os scores (1 a 5) sejam distribuídos de forma homogênea, evitando distorções.
+
+  Segurança e Portabilidade: Implementação de python-dotenv para gerenciar as credenciais do servidor SQL, mantendo o código seguro e fácil de configurar em diferentes ambientes.
 
   Tratamento de Exceções: Uso de blocos try-except e validações com pd.to_numeric para garantir a integridade do pipeline.
   
