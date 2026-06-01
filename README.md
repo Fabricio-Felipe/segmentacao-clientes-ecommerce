@@ -9,7 +9,7 @@
 Este projeto apresenta um pipeline de dados completo — da extração à visualização — utilizando o dataset público da Olist. O objetivo é aplicar a metodologia RFM (Recency, Frequency, Monetary) para segmentar clientes e gerar insights estratégicos sobre retenção e churn.
 
 
-🚀 Tecnologias e Ferramentas
+Tecnologias e Ferramentas
 
   Banco de Dados: SQL Server Express (Armazenamento e carga)
   
@@ -22,7 +22,7 @@ Este projeto apresenta um pipeline de dados completo — da extração à visual
     python-dotenv (Segurança e variáveis de ambiente)
     Visualização: Power BI (Dashboard Interativo)
 
-🐍 Processamento de Dados (ETL com Python)
+Processamento de Dados (ETL com Python)
 
 Para garantir a precisão estatística, desenvolvi um motor de processamento em Python que automatiza a inteligência do projeto.
 
@@ -37,7 +37,7 @@ Destaques Técnicos:
   
   Resolução de Bugs: Implementação de reset_index() para solucionar conflitos de índice no SQL Server durante a exportação.
 
-📊 Modelagem e Dashboard (Power BI)
+Modelagem e Dashboard (Power BI)
 
 A camada de visualização foi construída para responder a perguntas críticas de negócio.
 
@@ -48,7 +48,7 @@ A camada de visualização foi construída para responder a perguntas críticas 
   Limpeza Visual: Ajuste de layout com foco em UX (User Experience), removendo eixos redundantes e utilizando histogramas para análise de distribuição de Recência e Frequência.
 
 
-⚙️ Como executar
+Como executar
 
   1. Configuração do Banco:
 
@@ -74,7 +74,7 @@ A camada de visualização foi construída para responder a perguntas críticas 
   Abra o arquivo em dashboard/ e atualize a fonte de dados.
 
 
-🎓 Sobre o Autor
+Sobre o Autor
 
 Desenvolvido por Fabrício Felipe, graduando em Ciência da Computação na Anhanguera.
 
