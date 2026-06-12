@@ -20,7 +20,7 @@ Tecnologias e Ferramentas
     Pandas (Tratamento e lógica de scores)
     SQLAlchemy & PyODBC (Integração SQL)
     python-dotenv (Segurança e variáveis de ambiente)
-    Visualização: Power BI (Dashboard Interativo)
+    
 
 Processamento de Dados (ETL com Python)
 
